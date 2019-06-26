@@ -1,5 +1,6 @@
 #ifndef USERANSWER_H
 #define USERANSWER_H
+
 #include <iostream>
 #include <string>
 using std::istream;

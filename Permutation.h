@@ -1,3 +1,6 @@
+#ifndef PERMUATAION_H
+#define PERMUTATION_H
+
 #include <string>
 #include <vector>
 #include <map>
@@ -5,8 +8,6 @@
 using std::string;
 using std::vector;
 using std::multimap;
-#ifndef PERMUATAION_H
-#define PERMUTATION_H
 
 string compareNAMB(string reference, string element);
 
